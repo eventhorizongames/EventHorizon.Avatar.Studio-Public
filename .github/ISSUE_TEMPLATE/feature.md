@@ -2,7 +2,7 @@
 name: Feature
 about: Create a new Feature to be worked on
 title: '[Title of the Feature]'
-labels: feature
+labels: enhancement
 assignees: ''
 ---
 
